@@ -86,3 +86,9 @@ console.log('The animals are now', animalArray);
 // 4.g (STRETCH) TODO: Convert your array to a string
 //     putting the word "and" between each item.
 //     eg "tacos and pizza and pasta". Log the string.
+
+// 4.h (STRETCH) TODO: Make a new array that combines 
+//     the favorite foods array with the animals array.
+//     Then log the new array.
+//     It should look something like:
+//     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
