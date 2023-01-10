@@ -1,6 +1,6 @@
-# Prime Tier 1 Week 3 - Part 1
+# Unit 3, Part 1: Arrays Practice
 
-This week, we will continue to put more into your tool belt by tackling methods for handling tasks multiple times, storing multiple pieces of information, and more advanced decision tools.
+This unit, we will continue to put more into your tool belt by tackling methods for handling tasks multiple times, storing multiple pieces of information, and more advanced decision tools.
 
 ## Topics Covered
 
